@@ -1,2 +1,5 @@
 # me
-My links and stuff
+
+Instagram: https://www.instagram.com/ccfoo242/
+Twitter: https://twitter.com/stbloomfield
+Mastodon: https://mastodon.gamedev.place/@stbloomfield
